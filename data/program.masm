@@ -1,0 +1,5 @@
+begin
+  if.true
+    push.1
+  end
+end
